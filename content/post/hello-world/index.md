@@ -3,7 +3,6 @@ title: "Hello World"
 description: "Welcome to Hugo Theme Stack"
 slug: "hello-world"
 date: 2022-03-06T00:00:00+00:00
-draft: true
 image: "cover.jpg"
 categories:
   - "Example Category"
