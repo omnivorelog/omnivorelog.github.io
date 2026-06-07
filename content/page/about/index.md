@@ -20,7 +20,7 @@ menu:
 
 ## 我是誰
 
-可以從這找到我：[https://www.plurk.com/alsny]
+可以從這找到我：(https://www.plurk.com/alsny)
 
 ---
 
