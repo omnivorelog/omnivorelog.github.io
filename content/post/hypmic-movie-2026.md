@@ -5,7 +5,7 @@ toc: true
 tags: ["催眠麥克風", "repo"]
 categories: ["後感"]
 slug: "hypmic-movie-2026"
-description: "TEST"
+description: "催眠麥克風劇場版觀後感。以RAP評鑑標準逐場分析六組對戰，從投票機制談觀眾被賦權的沉浸感，以及為何權力結構決定了藝術詮釋的自由度。"
 summary: "."
 ---
 
