@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ["極限返航", "repo"]
 categories: ["後感"]
+slug: "project-hail-mary-review"
+description: "《極限返航》觀後感。從格雷斯的角色良善出發，談為何不需要翻轉弧的英雄才更有說服力，以及宇宙作為敘事背景如何放大人與人之間存在的重量。"
 ---
 
 ===== 後感 =====
