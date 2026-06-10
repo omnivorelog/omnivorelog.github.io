@@ -5,7 +5,7 @@ toc: true
 tags: ["催眠麥克風", "repo"]
 categories: ["後感"]
 slug: "hypmic-movie-2026"
-description: ""
+description: "TEST"
 summary: "."
 ---
 
