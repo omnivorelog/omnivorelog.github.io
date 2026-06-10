@@ -5,24 +5,12 @@ draft: false
 toc: true
 tags: ["刀劍亂舞","刀音" ,"刀ミュ","repo"]
 categories: ["後感","刀音"]
-slug: "touken-ranbu-musical-hizamaru-music"
+slug: "touken-ranbu-musical-Higekiri-music"
 description: "刀音髭切單騎觀後感追記，聚焦音樂製作部分。對照和田的製作筆記，逐曲分析m07至m13的敘事功能，並以九鬼周造「粋」的概念解讀泡影的情感收斂。"
 ---
-
+原文發表於噗浪
+===== 後感 =====
 # 刀音＿髭切單騎/樂曲製作相關的後感
-
-<div class="toc">
-
-**目錄**
-
-- [淺談](#淺談)
-  - [個別曲子的體感](#個別曲子的體感)
-    - [m07](#m07)
-    - [m10](#m10)
-    - [m12](#m12)
-    - [m13](#m13)
-
-</div>
 
 ## 淺談
 
