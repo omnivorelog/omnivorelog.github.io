@@ -4,7 +4,9 @@ date: 2026-06-21
 draft: false
 tags: ["刀劍亂舞","刀音" ,"刀ミュ","repo"]
 categories: ["後感","刀音"]
-slug:  "touken-ranbu-musical-Higekiri-review2."
+slug:  "touken-ranbu-musical-Higekiri-review2"
+description: "刀音髭切單騎夢幻泡影感想其二。從演出形式即角色塑造手法切入，逐層分析鬼人分際、命名與執念、本丸伏筆的交織結構，以及髭切作為演出主役透過詰問跟立場轉換，完成非典型的演出結構。"
+
 ---
 
 原文發表於噗浪
