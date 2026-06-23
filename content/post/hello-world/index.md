@@ -6,7 +6,7 @@ date: 2022-03-06T00:00:00+00:00
 draft: true
 image: "cover.jpg"
 categories:
-  - "Example Category"
+  - "刀音"
 tags:
   - "Example Tag"
 weight: 1
